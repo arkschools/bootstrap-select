@@ -1,0 +1,8 @@
+{
+    "name": "silviomoreto/bootstrap-select",
+    "description": "A custom select for @twitter bootstrap using button dropdown; originally by Silvio Moreto",
+    "homepage": "http://silviomoreto.github.io/bootstrap-select/",
+    "version": "master",
+    "require": {
+    }
+}
